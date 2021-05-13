@@ -1,5 +1,7 @@
 PRO aling_new, band,exptime,cube_d
 
+
+; añadiendo cambios para ver como funciona git
 chip = 1
 
 ;folder='im_dark/'
